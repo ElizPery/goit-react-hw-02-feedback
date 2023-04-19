@@ -1,0 +1,14 @@
+.list {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    gap: 5px;
+}
+
+.button {
+    text-transform: capitalize;
+    background-color: #fff;
+    border-width: 1px;
+    border-radius: 6px;
+    border-color: #bababa;
+}
